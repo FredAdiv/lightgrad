@@ -1,4 +1,4 @@
-from minigrad.engine import Value
+from lightgrad.engine import Value
 from .nn import MLP, Layer, Neuron
 
 __all__ = [

@@ -1,5 +1,5 @@
 import random
-from minigrad.engine import Value
+from lightgrad.engine import Value
 
 # https://github.com/karpathy/micrograd/
 
